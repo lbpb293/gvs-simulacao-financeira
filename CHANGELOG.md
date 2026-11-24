@@ -13,3 +13,6 @@ Versionamento semântico: MAJOR.MINOR.PATCH.
 ## [2.0.0]
 - **BREAKING CHANGE:** arquivos movidos para `entregas/` (os caminhos `planilha/` e `docs/` deixam de existir).
 - Adicionado o relatorio em PDF.
+
+## [2.0.1]
+- Relatorio em PDF atualizado com o link do repositorio.
