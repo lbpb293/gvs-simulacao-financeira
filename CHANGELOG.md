@@ -9,3 +9,7 @@ Versionamento semântico: MAJOR.MINOR.PATCH.
 
 ## [1.1.1]
 - Corrigida a descricao da planilha no README: indica que as premissas editaveis sao as celulas azuis da aba Premissas.
+
+## [2.0.0]
+- **BREAKING CHANGE:** arquivos movidos para `entregas/` (os caminhos `planilha/` e `docs/` deixam de existir).
+- Adicionado o relatorio em PDF.
